@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424106978 source:c:\users\1\downloads\Учеба\Лабы по программированию\sorting\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
